@@ -1,8 +1,8 @@
 Ollibo-Legal
 This repository hosts the public-facing Privacy Policy and Terms of Use for the Ollibo mobile app.
 
-Terms of Use: 
-Privacy Policy: https://ddemasters-beep.github.io/privacy-policy
+Terms of Use: https://ddemasters-beep.github.io/Ollibo-Legal/Terms
+Privacy Policy: https://ddemasters-beep.github.io/Ollibo-Legal/privacy-policy
 Usage
 
 This Markdown file is ready for GitHub Pages. Place it in the repository root (or /docs) and enable GitHub Pages in Settings → Pages.
